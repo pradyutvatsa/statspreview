@@ -4,4 +4,5 @@ body {
 
 .container {
     background-color: hsl(244, 38%, 16%);
+    margin:auto;
 }
