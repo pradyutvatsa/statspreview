@@ -33,29 +33,25 @@ https://github.com/pradyutvatsa/statspreview/blob/master/images/Screen%20Shot%20
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://pradyutvatsa.github.io/statspreview/)
+- Solution URL:(https://github.com/pradyutvatsa/statspreview/blob/0ef5a5660d1832776b5d622bd97a9cbd428ec410/index.html))
+- Live Site URL:(http://pradyutvatsa.github.io/statspreview/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS 
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Bootstrap 5.0
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Things that I learned the most in this exercise - 
 
-To see how you can add code snippets, see below:
+- How to use flex utilities in BS framework 
+- How to think as a developer building a simple static asset that's responsive across mobile and web
+- Thinking of relative font sizes and viewport properties such as height and width
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
