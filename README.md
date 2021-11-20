@@ -75,7 +75,7 @@ I'm going to take on a few more HTML and CSS only projects on frontendmentor as 
 
 - Website - Pradyut Vatsa
 - Frontend Mentor - [@pradyutvatsa](https://www.frontendmentor.io/profile/pradyutvatsa)
-- Twitter - [@yourusername](https://www.twitter.com/parrytopgun)
+- Twitter - [@parrytopgun](https://www.twitter.com/parrytopgun)
 
 
 ## Acknowledgments
