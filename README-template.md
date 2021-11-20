@@ -38,6 +38,9 @@ https://github.com/pradyutvatsa/statspreview/blob/master/images/Screen%20Shot%20
 
 ## My process
 
+1. As it was my first independent project and had only done code alongs prior, this was challenging to say the least. Where to begin, how to think about mobile responsive development. All of this was new to me. 
+2. Once I got a hang of alignment of columns and content I was able to quickly build a structure and check it at the various edge cases for e.g. small, medium breakpoints. 
+
 ### Built with
 
 - HTML5
@@ -52,48 +55,32 @@ Things that I learned the most in this exercise -
 - How to use flex utilities in BS framework 
 - How to think as a developer building a simple static asset that's responsive across mobile and web
 - Thinking of relative font sizes and viewport properties such as height and width
+- Learnt a new element in html - the <picture> element 
+- Also understood the nuance between horizontal centering of items Vs. vertical centering of items
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I'm going to take on a few more HTML and CSS only projects on frontendmentor as I really enjoyed this one. Further, I will continue my learnings of web development using Colt's course and dive into the brand new world of JS. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- MDN resource for HTML
+- Bootstrap get started website 
+- W3C org for more bootstrap try outs 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Pradyut Vatsa
+- Frontend Mentor - [@pradyutvatsa](https://www.frontendmentor.io/profile/pradyutvatsa)
+- Twitter - [@yourusername](https://www.twitter.com/parrytopgun)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Stackoverflow 
+- Colt's course on Web Development on Udemy
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
