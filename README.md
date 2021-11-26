@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-https://github.com/pradyutvatsa/statspreview/blob/master/images/Screen%20Shot%202021-11-20%20at%201.40.23%20pm.png
+https://github.com/pradyutvatsa/pradyutvatsa.github.io/blob/master/images/Screen%20Shot%202021-11-20%20at%201.40.23%20pm.png
 
 
 ### Links
 
-- Solution URL:(https://github.com/pradyutvatsa/statspreview/blob/0ef5a5660d1832776b5d622bd97a9cbd428ec410/index.html))
-- Live Site URL:(http://pradyutvatsa.github.io/statspreview/)
+- Solution URL:(https://github.com/pradyutvatsa/pradyutvatsa.github.io)
+- Live Site URL:(https://pradyutvatsa.github.io/)
 
 ## My process
 
