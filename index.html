@@ -48,53 +48,61 @@
 
       <!-- We now begin with the content column where we set the order of the column to appear first after small breakpoint.  -->
 
-      <div class="col-sm-6 col-md-5 px-0 MainContentArea order-2 order-sm-1 rounded-3">
+      <div class="col-sm-6 col-md-5 px-0 MainContentArea order-2 order-sm-1 rounded-3 h-50">
 
         <!-- Here we again define an element with height attribute so as to align items vertically to the center after small breakpoint -->
-        <div class="row g-0 h-100 justify-content-center align-items-sm-center">
-          <div class="col-8 col-sm-9 px-0">
+        <div class="row h-100 g-0 justify-content-center">
 
-            <!-- This is where i define my headline text with the standout word within a span -->
+          <div class="col-8 col-sm-9 px-0 h-100">
 
-            <h3 class="text-center mt-5"> Get <span class="standout"> insights </span> that help your business grow.
-            </h3>
+            <div class="d-flex flex-column h-100 justify-content-around">
 
-            <!-- This is where i add my lead text with the compelling value proposition -->
+              <!-- This is where i define my headline text with the standout word within a span -->
 
-            <p class="mainContent text-center mt-3 my-sm-5">Discover the benefits of data analytics and make better
-              decisions
-              regarding
-              revenue,
-              customer experience, and overall efficiency.</p>
+              <h2 class="text-center text-sm-start"> Get <span class="standout"> insights </span> that help your
+                business
+                grow.
+              </h2>
 
-            <!-- This is the tricky one. This is where I add the flex column with the stats. Now, it's important to have each set of stats within a single div 
+              <!-- This is where i add my lead text with the compelling value proposition -->
+
+              <p class="mainContent text-center text-sm-start">Discover the benefits of data analytics and make better
+                decisions
+                regarding
+                revenue,
+                customer experience, and overall efficiency.</p>
+
+              <!-- This is the tricky one. This is where I add the flex column with the stats. Now, it's important to have each set of stats within a single div 
               so that they behave as a single element and change orientation as we switch devices. -->
 
-            <div
-              class="stats d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-sm-between align-items-sm-end my-sm-5">
-              <div class="">
-                <p class="statHeadings mb-0">10k+</p>
-                <p class="statContent mb-3 mb-sm-0">COMPANIES</p>
+              <div
+                class="stats d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-sm-between">
+                <div class="">
+                  <p class="statHeadings mb-0">10k+</p>
+                  <p class="statContent mb-3 mb-sm-0">COMPANIES</p>
+                </div>
+                <div class="">
+                  <p class="statHeadings mb-0">314</p>
+                  <p class="statContent mb-3 mb-sm-0">TEMPLATES</p>
+                </div>
+                <div class="pe-4 pe-sm-2">
+                  <p class="statHeadings mb-0">12M+</p>
+                  <p class="statContent mb-3 mb-sm-0">QUERIES</p>
+                </div>
               </div>
-              <div class="">
-                <p class="statHeadings mb-0">314</p>
-                <p class="statContent mb-3 mb-sm-0">TEMPLATES</p>
-              </div>
-              <div class="pe-4 pe-sm-2">
-                <p class="statHeadings mb-0">12M+</p>
-                <p class="statContent mb-3 mb-sm-0">QUERIES</p>
-              </div>
-            </div>
 
+
+
+            </div>
           </div>
         </div>
       </div>
       <!--Inserting our image div. Here learnt about the picture element where one can use different image sources at different screen width sizes.  -->
-      <div class="col-sm-6 col-md-5 px-0 img-box order-1 order-sm-2 rounded-3">
+      <div class="col-sm-6 col-md-5 px-0 img-box order-1 order-sm-2 rounded-3 h-50">
 
         <picture>
           <source media="(min-width:576px)" srcset="images/image-header-desktop.jpg">
-          <img src="images/image-header-mobile.jpg" alt="" class="img-fluid" style="height:100%;width:100%">
+          <img src="images/image-header-mobile.jpg" alt="" class="img-fluid opacity-25" style="height:100%;width:100%">
         </picture>
       </div>
     </div>

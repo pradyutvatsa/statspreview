@@ -14,15 +14,23 @@ html, body {
 
 .mainContent {
     background-color: hsl(244, 38%, 16%); 
-    font-size: 0.9rem; 
+    font-size: 1.25rem; 
     color:hsla(0, 0%, 100%, 0.75);
 
 }
 
-h3 {
+h2 {
     color:hsl(0, 0%, 100%);
     font-family: "Inter", sans-serif;
     font-weight: 700;  
+    margin:0px;
+    padding:0px;
+
+}
+
+p {
+    margin:0px;
+    padding:0px;
 }
 
 .standout {
@@ -47,58 +55,72 @@ h3 {
     
 }
 
-img {
-    opacity:0.3;
-    
-}
-
 @media (min-width:576px) and (max-width:825px) {
     .statContent {
-        font-size:9px;
+        font-size:0.6rem;
     }
 }
 
 @media (min-width:1200px) {
     .statHeadings {
-        font-size:24px;
+        font-size:1.5rem;
     }
 }
 
 @media (max-width:576px) {
     .statHeadings {
-        font-size:18px;
+        font-size:1.125rem;
     }
 }
 
 @media (min-width:0px) and (max-width:576px) {
     .MainContentArea {
-        height:66.67%;
+        height: 66.67% !important;
     }
 
     .img-box {
-        height:33.33%;
+        height:33.33% !important;
     }
 }
 
 
 @media (min-width:576px) and (max-width:768px) {
     .MainContentArea {
-        height:75%;
+        height:75% !important;
     }
 
     .img-box {
-        height:75%;
+        height:75% !important;
     }
 }
 
 @media (min-width:768px) {
     .MainContentArea {
-        height:65%;
+        height:65% !important;
     }
 
     .img-box {
-        height:65%;
+        height:65% !important;
     }
+}
+
+@media (min-width:768px) and (max-height:400px) {
+    .MainContentArea {
+        height:95%;
+    }
+
+    .img-box {
+        height:95%;
+    }
+    h2 {
+        font-size:1.25rem;
+    }
+
+    .mainContent {
+        font-size:0.8rem;
+    }
+
+    
 }
 
 
